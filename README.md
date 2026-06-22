@@ -1,4 +1,3 @@
-# CIS3032-E-commerce-and-Digital-Marketing
 # Customer Segmentation Using Data Mining Techniques for Personalized Marketing
 
 ## 📘 Project Overview
